@@ -71,3 +71,12 @@ LuminosChatbot is a dynamic chatbot system powered by a fine-tuned `Qwen2ForCaus
   - `evaluation_results.json`
 - `.gitignore` *Ignored files*
 - `README.md` *This file!*
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.12
+- Git
+- Required libraries (install via `requirements.txt`)
