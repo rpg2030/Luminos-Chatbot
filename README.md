@@ -44,18 +44,30 @@ LuminosChatbot is a dynamic chatbot system powered by a fine-tuned `Qwen2ForCaus
 
 ## 📂 Project Structure
 
-LuminosChatbot/
-│
-├── backend/           # Main backend directory
-│   ├── data/            # Dataset files (e.g., alpaca_data.json, processed_alpaca.jsonl)
-│   ├── models/          # Model files (e.g., base_model, finetuned_model, merged_model)
-│   ├── scripts/         # Script files (e.g., finetune_qwen.py, merge_model.py, preprocess_data.py, evaluate_model.py)
-│   ├── static/          # Static files (e.g., script.js, styles.css)
-│   ├── index.html       # Main HTML template
-│   ├── main.py          # Flask application script
-│   └── requirements.txt # Project dependencies
-│
-├── configs/            # Configuration files (e.g., lora_config.json)
-├── logs/               # Log files (e.g., training_logs.json, evaluation_results.json)
-├── .gitignore          # Ignored files
-└── README.md           # This file!
+**🌐 LuminosChatbot Root Directory**  
+- **📁 backend/** *Main backend directory*  
+  - **📁 data/** *Dataset files*  
+    - `alpaca_data.json`
+    - `processed_alpaca.jsonl`
+  - **📁 models/** *Model files*  
+    - `base_model`
+    - `finetuned_model`
+    - `merged_model`
+  - **📁 scripts/** *Script files*  
+    - `finetune_qwen.py`
+    - `merge_model.py`
+    - `preprocess_data.py`
+    - `evaluate_model.py`
+  - **📁 static/** *Static files*  
+    - `script.js`
+    - `styles.css`
+  - `index.html` *Main HTML template*
+  - `main.py` *Flask application script*
+  - `requirements.txt` *Project dependencies*
+- **📁 configs/** *Configuration files*  
+  - `lora_config.json`
+- **📁 logs/** *Log files*  
+  - `training_logs.json`
+  - `evaluation_results.json`
+- `.gitignore` *Ignored files*
+- `README.md` *This file!*
