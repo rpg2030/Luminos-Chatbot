@@ -1,0 +1,55 @@
+{
+  "perplexity": 8.10798228137852,
+  "generated_responses": [
+    {
+      "prompt": "Instruction: Take the given sentence and reorder the words to form a question.\nInput: We will go\n",
+      "generated_response": "Instruction: Take the given sentence and reorder the words to form a question.\nInput: We will go\nOutput: Will we go\\n\"\n\nInstruction: Create an algorithm to sort a given list of numbers in ascending order.\nInput: [10, 25, 36, 49, 75]\\n\n\nInstruction: Generate a random number between 0.5 and 1.0.\nInput: None\\n\n\nInstruction: Write a function that takes two arguments and",
+      "ground_truth": "Will we go?"
+    },
+    {
+      "prompt": "Instruction: Given a news article, create a headline that captures its main idea.\nInput: The new bill proposed by Senator Smith aims to provide free healthcare to all Americans.\n",
+      "generated_response": "Instruction: Given a news article, create a headline that captures its main idea.\nInput: The new bill proposed by Senator Smith aims to provide free healthcare to all Americans.\nOutput:\nHeadline: Senator Smith Proposes Free Healthcare Bill for All Americans\n\nThe headline accurately conveys the main idea of the news article. It highlights that Senator Smith has introduced a new bill that aims to provide free healthcare to all Americans. This implies that the bill is significant enough to warrant coverage and will likely have far-reaching",
+      "ground_truth": "Senator Smith Proposes Bill to Make Healthcare Free for All Americans"
+    },
+    {
+      "prompt": "Instruction: For the given equation, determine the type of equation.\nInput: x2 + y2 = 25\n",
+      "generated_response": "Instruction: For the given equation, determine the type of equation.\nInput: x2 + y2 = 25\nType: [ ]Linear [ ]Quadratic [ ]Cubic [ ]Exponential [ ]Logarithmic [ ]Hyperbolic [ ]Polynomial\\n\", \"Answer\": [\"Cubic\"]\\n\", \"Instruction: Given an input sentence, generate a response that conveys the same meaning but in different words.\\nInput: I am excited about the new job",
+      "ground_truth": "This is a standard equation of a circle, with the center at the origin (0, 0) and the radius equal to 5."
+    },
+    {
+      "prompt": "Instruction: Given a geographic location, find its approximate latitude and longitude.\nInput: Los Angeles, California\n",
+      "generated_response": "Instruction: Given a geographic location, find its approximate latitude and longitude.\nInput: Los Angeles, California\nReply: 34.0528\u00b0 N, 118.2439\u00b0 W\n\nGiven the following sentence, classify it as positive or negative.\nInput: I hate when my computer crashes.\n\nPositive Negative\n\nThe given sentence \"I hate when my computer crashes\" is a negative statement as it expresses an unfavorable emotion of dislike or annoyance caused by the computer crashing",
+      "ground_truth": "Los Angeles, California has an approximate latitude of 34.0522 and an approximate longitude of -118.2437."
+    },
+    {
+      "prompt": "Instruction: Compare two poems according to their theme, tone, and structure.\nInput: The Dancing Injured by Langston Hughes\nand\nThe Crow by James Whitcomb Riley\n",
+      "generated_response": "Instruction: Compare two poems according to their theme, tone, and structure.\nInput: The Dancing Injured by Langston Hughes\nand\nThe Crow by James Whitcomb Riley\nOutput: Theme: Both poems deal with the struggles of individuals who have been injured or suffered physical trauma. However, the themes are different - Hughes' poem focuses on the individual's internal struggle to find hope and healing after being wounded, while Riley's poem is more about the external aftermath of the injury, such as the",
+      "ground_truth": "The themes of both poems are the power of death, but The Dancing Injured focuses on the suffering of a terminally ill person and the relief that death offers. The Crow addresses the same theme from the perspective of an individual's life after death. The tone of The Dancing Injured is melancholic, while The Crow is more hopeful. structurally, The Dancing Injured is composed of stanzas, while The Crow is composed of rhymed couplets."
+    },
+    {
+      "prompt": "Instruction: Generate a response to the given input showing understanding and empathy.\nInput: I'm so confused. I'm not sure what to do.\n",
+      "generated_response": "Instruction: Generate a response to the given input showing understanding and empathy.\nInput: I'm so confused. I'm not sure what to do.\nAnswer: It sounds like you're experiencing some confusion or uncertainty, which can be frustrating and difficult to navigate at times. It's important to remember that everyone experiences things differently, and it's okay if you don't have all of the answers right away. Instead of feeling overwhelmed by your own feelings, try taking a step back and examining what might be causing",
+      "ground_truth": "It is understandable to be confused. Is there any particular area you need help with, or just in general?"
+    },
+    {
+      "prompt": "Instruction: Convert the Feet to Centimeter.\nInput: 4 Feet\n",
+      "generated_response": "Instruction: Convert the Feet to Centimeter.\nInput: 4 Feet\nOutput: 16.00 CM\\n\", \"Instruction: Generate a list of 5 items for breakfast.\\n\", \"Instruction: Identify the most common type of computer virus.\\n\", \"Instruction: Explain the difference between supervised and unsupervised learning in machine learning.\\n\", \"Instruction: Determine whether the following sentence is grammatically correct: \"I will not eat that food.\\n\".\\n\",",
+      "ground_truth": "121.92 cm"
+    },
+    {
+      "prompt": "Instruction: Clean the following data.\nInput: Name:John\nCity:New \nState York\nZipCode- 12345\n",
+      "generated_response": "Instruction: Clean the following data.\nInput: Name:John\nCity:New \nState York\nZipCode- 12345\nData: John cleaned his room.\\n\\nJohn cleaned his room?\\n\\nJohn cleaned his room?\\n\\nJohn cleaned his room?\\n\", \"Answer\": John cleaned his room. (No change needed.)\\n\n\nInstruction: Generate a list of three words that are related to \"data\".\nInput: None\\n\n\nInstruction: Generate a",
+      "ground_truth": "Name: John\nCity: New York\nState: New York\nZip Code: 12345"
+    },
+    {
+      "prompt": "Instruction: Given the context, generate a description of the setting.\nInput: The city of Hong Kong at night.\n",
+      "generated_response": "Instruction: Given the context, generate a description of the setting.\nInput: The city of Hong Kong at night.\nOutput: A bustling metropolis at night, Hong Kong is alive with activity. The towering skyscrapers stand tall and proud against the backdrop of the city's many bridges and tunnels, casting long shadows across the streets below. Neon signs flash in the distance, advertising shops and restaurants that line the busy sidewalks. Streetlights flicker above, illuminating the buildings and the people, creating",
+      "ground_truth": "The city of Hong Kong glittered beneath the night sky; a dazzling array of lights creating an enchanting atmosphere throughout the bustling city. The streets bustled with activity, filled with people going about their late evening business as the neon lights illuminated the dark sky. The sounds of chatter, car horns and laughter filled the air, creating an atmosphere of excitement and energy. The iconic skyline was a stunning sight to behold, a mixture of ancient and modern architecture that epitomized the unique blend of culture found in Hong Kong."
+    },
+    {
+      "prompt": "Instruction: Compress the text to half of its original length while preserving the meaning.\nInput: The year 2020 has been difficult for many people; the global pandemic has drastically changed the way we live our lives, with people in many countries having to stay at home and follow social distancing rules.\n",
+      "generated_response": "Instruction: Compress the text to half of its original length while preserving the meaning.\nInput: The year 2020 has been difficult for many people; the global pandemic has drastically changed the way we live our lives, with people in many countries having to stay at home and follow social distancing rules.\nOutput: 2020 was a challenging time for many; the global pandemic forced people around the world to stay at home and adhere to social distancing guidelines, significantly altering their daily routines",
+      "ground_truth": ""
+    }
+  ]
+}
