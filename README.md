@@ -1,6 +1,9 @@
 # Luminos Chatbot 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/rpg2030/Luminos-Chatbot?color=brightgreen) ![GitHub forks](https://img.shields.io/github/forks/rpg2030/Luminos-Chatbot?color=blue) ![GitHub issues](https://img.shields.io/github/issues/rpg2030/Luminos-Chatbot?color=red) ![Python Version](https://img.shields.io/badge/Python-3.9+-blueviolet)
+![GitHub stars](https://img.shields.io/github/stars/rpg2030/Luminos-Chatbot?color=brightgreen) 
+![GitHub forks](https://img.shields.io/github/forks/rpg2030/Luminos-Chatbot?color=blue) 
+![GitHub issues](https://img.shields.io/github/issues/rpg2030/Luminos-Chatbot?color=red) 
+![Python Version](https://img.shields.io/badge/Python-3.9+-blueviolet)
 
 Welcome to **LuminosChatbot**, an advanced conversational AI prototype built with a fine-tuned large language model! This project demonstrates expertise in NLP, model optimization, and web development, creating a scalable chatbot solution ready for real-world applications.
 
