@@ -1,6 +1,6 @@
 # Luminos Chatbot 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/rpg2030/Luminos-Chatbot?color=brightgreen) 
+![GitHub stars](https://github/stars/rpg2030/Luminos-Chatbot?color=brightgreen) 
 ![GitHub forks](https://img.shields.io/github/forks/rpg2030/Luminos-Chatbot?color=blue) 
 ![GitHub issues](https://img.shields.io/github/issues/rpg2030/Luminos-Chatbot?color=red) 
 ![Python Version](https://img.shields.io/badge/Python-3.9+-blueviolet)
