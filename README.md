@@ -16,7 +16,7 @@ LuminosChatbot is a dynamic chatbot system powered by a fine-tuned `Qwen2ForCaus
 - **Goal**: Build a conversational AI that provides insightful responses efficiently.
 - **Status**: Prototype stage, with potential for future enhancements.
 
-![LuminosChatbot Demo](static/chatbot.png)
+![LuminosChatbot Demo](backend/static/chatbot.png)
 
 ---
 
